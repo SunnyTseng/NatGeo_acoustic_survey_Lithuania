@@ -21,33 +21,93 @@ Apps and computer softwares
 ## Firmware update
 
 ### Audio Moth (version 1.11.0)
-All the AudioMoth don't have updated firmware, especially the ones loaned from Naitonal Geographic. Thus, all the Audio Moth units were updated using the following steps: 
 
-1. Launch the AudioMoth Flash App, which can be downloaded from [OpenAcoustic website](https://www.openacousticdevices.info/applications)
-2. Makre sure the AudioMoth is in the USB/off mode. Connect the AudioMoth unit with computer using the micro USB line (no battery and micro SD card needed). 
-3. The "Flash" botton should shine green if the unit is detected succesfully. Follow the steps outlined in the "manually turn AudioMoth into flash mode" if needed.
-4. Click on the firmware version wanted. And click "Flash"
-5. Unplug the connection
+None of the AudioMoth units, especially those loaned from National Geographic, had the latest firmware. All devices were updated using the steps below:
+
+1. Launch the AudioMoth Flash App, available from the [OpenAcoustic website](https://www.openacousticdevices.info/applications).
+2. Ensure the AudioMoth is in USB/Off mode. Connect it to a computer via a micro USB cable (no batteries or microSD card are required).
+3. The "Flash" button should turn green when the unit is successfully detected. If not, follow the on-screen instructions to manually enter flash mode.
+4. Select the desired firmware version and click "Flash".
+5. Once flashing is complete, unplug the unit.
 
 
 ### Song Meter Mini (version 4.6)
-All the song meter mini from Birds Canada all had outdated firmware (getting warning messages after connected with the phone app). Firmware is updated following the steps below: 
+All Song Meter Mini units from Birds Canada had outdated firmware, as indicated by warning messages when connecting via the mobile app. The firmware was updated using the following steps:
 
-1. Download the newest firmware from [WildAcoustic website](https://www.wildlifeacoustics.com/account/downloads) (need to register an account to login)
-2. Put the firmware file "sys-4.6.smm" to an empty (formatted) SD card
-3. Put 4 AA batteries and the SD card with the firmware file in the Song Mini unit. Switch the power on
-4. The LED light should shine green. Press the "function" botton until the green LED light is at the "Load". Then long press the "function" until the green LED starts blinking. 
-5. Wait until the firmware is loaded, which might take up to 1 min. 
-6. Could connect to the phone App to check whether the loading is successful or not (optional). Switch the power off. 
+1. Download the latest firmware from the Wildlife [WildAcoustic website](https://www.wildlifeacoustics.com/account/downloads) (registration required).
+2. Copy the firmware file (sys-4.6.smm) onto an empty, formatted SD card.
+3. Insert 4 AA batteries and the SD card with the firmware file into the Song Meter Mini unit, then switch the power on.
+4. The LED should light up green. Press the Function button until the green LED is aligned with "Load", then long-press the Function button until the green LED begins blinking.
+5. Wait for the firmware to load, which may take up to 1 minute.
+6. Optionally, connect to the mobile app to verify that the firmware update was successful Finally, switch the unit off.
+
 
 
 
 ## Study location and sites
+I used Google My Maps to create a site map indicating the locations of the ARUs. To generate evenly spaced grids (1 km for Žuvintas Lake and 3 km for Curonian Spit National Park), I used QGIS, and then imported the resulting KML files into Google My Maps. The grid size was chosen based on the heterogeneity of the habitat in each area.
 
+Site locations were selected to represent the full bird community by considering the following criteria (I found it difficult to assess habitat diversity and accessibility remotely. It's best to consult with local collaborators upon arrival to refine site selection.):
+
+- Positioned at the center of each grid cell
+- Accessible by road
+- Covering as diverse a range of habitats as possible
+
+Maps can be found here:
+
+- [Zuvintas Lake Biosphere](https://www.google.com/maps/d/u/0/edit?mid=1pH6OkkHuZ27Fp8bWOTNObME3h0irAlg&usp=sharing)
+- [Curonian Spit National Park](https://www.google.com/maps/d/u/0/edit?mid=1Rzk47qVNdNqXr9cCmbVpNEYCmcsJY5Q&usp=sharing)
 
 ## Deployment
 
-Elastic band + Ziplock bags + duct tape + zip tie
+- Batteries 
+- SD cards
+- Desiccant pack
+- Elastic band
+- Zip lock bags
+- Tape
+- Zip ties
+- Buckle straps 
+
+
+![alt text](<WhatsApp Image 2025-04-17 at 16.14.43_ac44281a.jpg>)
+#### Before field (AudioMoth)
+1. Insert 3 Energizer batteries and a microSD card into the unit.
+2. Secure the unit with an elastic band, taking care not to cover:
+    - The white switch
+    - The SD card slot
+    - The microphone
+3. Place the unit into a plastic bag with two desiccant packs, positioning the microphone at the bottom of the bag.
+4. Use duct tape to create a loop at the top of the bag for mounting.
+
+
+#### In the field (AudioMoth)
+5. Choose a deployment location with the following in mind:
+    - Avoid direct sunlight
+    - Seek camouflage (e.g., attach to an intermediate-sized tree)
+    - Maintain a consistent height from the ground (about 1.5 m)
+    - Avoid locations near moving water, strong wind, vegetation contact, roads, or mechanical noise
+6. Thread a zip tie or strap through the loop. Attach the bag to the tree by tighten the zip tie. 
+7. Switch the AudioMoth to CUSTOM mode. The red light should turn on, and the green light should blink.
+8. Use the phone app to chime the unit and synchronize the correct time. The light should be blinking ONLY green (waiting to record), or blinking ONLY red (recording).
+9. Deployment complete.
+
+![alt text](<WhatsApp Image 2025-04-17 at 16.14.46_9951aa0e.jpg>)
+
+#### Before field (SongMini)
+1. Insert 4 Energizer AA batteries and a 256 GB SD card into the unit.
+2. Turn on the unit and press PAIR to connect it with the mobile app.
+3. Use the app to update the configuration, including:
+    - Location (for accurate sunrise/sunset times)
+    - Device time
+    - Unpair the unit and turn it off.
+
+#### In the field (SongMini)
+5. Open and turn on the unit, press PAIR to connect.
+6. Check the configuration (location, time, schedule, and recoerding until when), and status (SD card, battery). Unpair the unit. 
+7. Thread a ziptie or buckled strap to secure the unit on a tree. 
+8. Deployment complete.
+
 
 
 

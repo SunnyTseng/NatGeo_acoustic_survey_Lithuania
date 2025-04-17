@@ -1,0 +1,1419 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="grid" id="grid">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="left" type="float"></SimpleField>
+	<SimpleField name="top" type="float"></SimpleField>
+	<SimpleField name="right" type="float"></SimpleField>
+	<SimpleField name="bottom" type="float"></SimpleField>
+	<SimpleField name="row_index" type="float"></SimpleField>
+	<SimpleField name="col_index" type="float"></SimpleField>
+</Schema>
+<Folder><name>grid</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="left">460092.104</SimpleData>
+		<SimpleData name="top">6037245.9915</SimpleData>
+		<SimpleData name="right">461246.804538379</SimpleData>
+		<SimpleData name="bottom">6036245.9915</SimpleData>
+		<SimpleData name="row_index">0</SimpleData>
+		<SimpleData name="col_index">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.3844028326027,54.4659362306194 23.3887885394354,54.4704512797927 23.3976948560256,54.4704959881532 23.4022135147166,54.4660256326054 23.3978267959682,54.4615110647219 23.3889224300868,54.4614663710937 23.3844028326027,54.4659362306194</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="left">460092.104</SimpleData>
+		<SimpleData name="top">6036245.9915</SimpleData>
+		<SimpleData name="right">461246.804538379</SimpleData>
+		<SimpleData name="bottom">6035245.9915</SimpleData>
+		<SimpleData name="row_index">1</SimpleData>
+		<SimpleData name="col_index">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.3845376615108,54.4569513225326 23.3889224300868,54.4614663710937 23.3978267959682,54.4615110647219 23.4023444432799,54.4570406950605 23.3979586633518,54.45252612763 23.3890562471066,54.4524814487276 23.3845376615108,54.4569513225326</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="left">460092.104</SimpleData>
+		<SimpleData name="top">6035245.9915</SimpleData>
+		<SimpleData name="right">461246.804538379</SimpleData>
+		<SimpleData name="bottom">6034245.9915</SimpleData>
+		<SimpleData name="row_index">2</SimpleData>
+		<SimpleData name="col_index">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.3846724162787,54.4479664007749 23.3890562471066,54.4524814487276 23.3979586633518,54.45252612763 23.4024752998474,54.4480557438575 23.3980904582304,54.4435411768762 23.3891899905497,54.4434965126933 23.3846724162787,54.4479664007749</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="left">460092.104</SimpleData>
+		<SimpleData name="top">6034245.9915</SimpleData>
+		<SimpleData name="right">461246.804538379</SimpleData>
+		<SimpleData name="bottom">6033245.9915</SimpleData>
+		<SimpleData name="row_index">3</SimpleData>
+		<SimpleData name="col_index">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.3848070969616,54.438981465345 23.3891899905497,54.4434965126933 23.3980904582304,54.4435411768762 23.4026060844726,54.4390707789951 23.3982221806582,54.4345562124591 23.3893236604709,54.4345115629892 23.3848070969616,54.438981465345</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="left">460092.104</SimpleData>
+		<SimpleData name="top">6033245.9915</SimpleData>
+		<SimpleData name="right">461246.804538379</SimpleData>
+		<SimpleData name="bottom">6032245.9915</SimpleData>
+		<SimpleData name="row_index">4</SimpleData>
+		<SimpleData name="col_index">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.3849417036147,54.4299965162415 23.3893236604709,54.4345115629892 23.3982221806582,54.4345562124591 23.4027367972093,54.430085800472 23.398353830689,54.4255712343776 23.3894572569251,54.4255265996143 23.3849417036147,54.4299965162415</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">6</SimpleData>
+		<SimpleData name="left">460092.104</SimpleData>
+		<SimpleData name="top">6032245.9915</SimpleData>
+		<SimpleData name="right">461246.804538379</SimpleData>
+		<SimpleData name="bottom">6031245.9915</SimpleData>
+		<SimpleData name="row_index">5</SimpleData>
+		<SimpleData name="col_index">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.3850762362932,54.4210115534632 23.3894572569251,54.4255265996143 23.398353830689,54.4255712343776 23.4028674381109,54.421100808287 23.3984854083768,54.4165862426302 23.3895907799668,54.4165416225671 23.3850762362932,54.4210115534632</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">7</SimpleData>
+		<SimpleData name="left">460092.104</SimpleData>
+		<SimpleData name="top">6031245.9915</SimpleData>
+		<SimpleData name="right">461246.804538379</SimpleData>
+		<SimpleData name="bottom">6030245.9915</SimpleData>
+		<SimpleData name="row_index">6</SimpleData>
+		<SimpleData name="col_index">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.3852106950522,54.4120265770087 23.3895907799668,54.4165416225671 23.3984854083768,54.4165862426302 23.4029980072309,54.4121158024386 23.3986169137756,54.4076012372157 23.3897242296508,54.4075566318463 23.3852106950522,54.4120265770087</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">8</SimpleData>
+		<SimpleData name="left">460092.104</SimpleData>
+		<SimpleData name="top">6030245.9915</SimpleData>
+		<SimpleData name="right">461246.804538379</SimpleData>
+		<SimpleData name="bottom">6029245.9915</SimpleData>
+		<SimpleData name="row_index">7</SimpleData>
+		<SimpleData name="col_index">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.3853450799467,54.4030415868769 23.3897242296508,54.4075566318463 23.3986169137756,54.4076012372157 23.4031285046229,54.4031307829256 23.398748346939,54.3986162181328 23.3898576060318,54.3985716274508 23.3853450799467,54.4030415868769</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">9</SimpleData>
+		<SimpleData name="left">460092.104</SimpleData>
+		<SimpleData name="top">6029245.9915</SimpleData>
+		<SimpleData name="right">461246.804538379</SimpleData>
+		<SimpleData name="bottom">6028245.9915</SimpleData>
+		<SimpleData name="row_index">8</SimpleData>
+		<SimpleData name="col_index">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.3854793910318,54.3940565830663 23.3898576060318,54.3985716274508 23.398748346939,54.3986162181328 23.4032589303401,54.3941457497467 23.3988797079209,54.3896311853801 23.3899909091642,54.3895866093791 23.3854793910318,54.3940565830663</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">10</SimpleData>
+		<SimpleData name="left">460958.129403784</SimpleData>
+		<SimpleData name="top">6036745.9915</SimpleData>
+		<SimpleData name="right">462112.829942164</SimpleData>
+		<SimpleData name="bottom">6035745.9915</SimpleData>
+		<SimpleData name="row_index">0</SimpleData>
+		<SimpleData name="col_index">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.3978267959682,54.4615110647219 23.4022135147166,54.4660256326054 23.4111188919772,54.4660693494511 23.4156355999325,54.4615984840059 23.4112478703411,54.4570843975014 23.4023444432799,54.4570406950605 23.3978267959682,54.4615110647219</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">11</SimpleData>
+		<SimpleData name="left">460958.129403784</SimpleData>
+		<SimpleData name="top">6035745.9915</SimpleData>
+		<SimpleData name="right">462112.829942164</SimpleData>
+		<SimpleData name="bottom">6034745.9915</SimpleData>
+		<SimpleData name="row_index">1</SimpleData>
+		<SimpleData name="col_index">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.3979586633518,54.45252612763 23.4023444432799,54.4570406950605 23.4112478703411,54.4570843975014 23.4157635679897,54.4526135181106 23.4113767777814,54.4480994318998 23.4024752998474,54.4480557438575 23.3979586633518,54.45252612763</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">12</SimpleData>
+		<SimpleData name="left">460958.129403784</SimpleData>
+		<SimpleData name="top">6034745.9915</SimpleData>
+		<SimpleData name="right">462112.829942164</SimpleData>
+		<SimpleData name="bottom">6033745.9915</SimpleData>
+		<SimpleData name="row_index">2</SimpleData>
+		<SimpleData name="col_index">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.3980904582304,54.4435411768762 23.4024752998474,54.4480557438575 23.4113767777814,54.4480994318998 23.4158914656857,54.443628538566 23.4115056143509,54.4391144526452 23.4026060844726,54.4390707789951 23.3980904582304,54.4435411768762</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">13</SimpleData>
+		<SimpleData name="left">460958.129403784</SimpleData>
+		<SimpleData name="top">6033745.9915</SimpleData>
+		<SimpleData name="right">462112.829942164</SimpleData>
+		<SimpleData name="bottom">6032745.9915</SimpleData>
+		<SimpleData name="row_index">3</SimpleData>
+		<SimpleData name="col_index">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.3982221806582,54.4345562124591 23.4026060844726,54.4390707789951 23.4115056143509,54.4391144526452 23.4160192930728,54.4346435453707 23.4116343801024,54.4301294597361 23.4027367972093,54.430085800472 23.3982221806582,54.4345562124591</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">14</SimpleData>
+		<SimpleData name="left">460958.129403784</SimpleData>
+		<SimpleData name="top">6032745.9915</SimpleData>
+		<SimpleData name="right">462112.829942164</SimpleData>
+		<SimpleData name="bottom">6031745.9915</SimpleData>
+		<SimpleData name="row_index">4</SimpleData>
+		<SimpleData name="col_index">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.398353830689,54.4255712343776 23.4027367972093,54.430085800472 23.4116343801024,54.4301294597361 23.4161470502034,54.4256585385234 23.4117630750886,54.4211444531713 23.4028674381109,54.421100808287 23.398353830689,54.4255712343776</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">15</SimpleData>
+		<SimpleData name="left">460958.129403784</SimpleData>
+		<SimpleData name="top">6031745.9915</SimpleData>
+		<SimpleData name="right">462112.829942164</SimpleData>
+		<SimpleData name="bottom">6030745.9915</SimpleData>
+		<SimpleData name="row_index">5</SimpleData>
+		<SimpleData name="col_index">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.3984854083768,54.4165862426302 23.4028674381109,54.421100808287 23.4117630750886,54.4211444531713 23.4162747371298,54.4166735180229 23.4118916993624,54.4121594329495 23.4029980072309,54.4121158024386 23.3984854083768,54.4165862426302</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">16</SimpleData>
+		<SimpleData name="left">460958.129403784</SimpleData>
+		<SimpleData name="top">6030745.9915</SimpleData>
+		<SimpleData name="right">462112.829942164</SimpleData>
+		<SimpleData name="bottom">6029745.9915</SimpleData>
+		<SimpleData name="row_index">6</SimpleData>
+		<SimpleData name="col_index">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.3986169137756,54.4076012372157 23.4029980072309,54.4121158024386 23.4118916993624,54.4121594329495 23.4164023539044,54.4076884838677 23.4120202529762,54.4031743990693 23.4031285046229,54.4031307829256 23.3986169137756,54.4076012372157</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">17</SimpleData>
+		<SimpleData name="left">460958.129403784</SimpleData>
+		<SimpleData name="top">6029745.9915</SimpleData>
+		<SimpleData name="right">462112.829942164</SimpleData>
+		<SimpleData name="bottom">6028745.9915</SimpleData>
+		<SimpleData name="row_index">7</SimpleData>
+		<SimpleData name="col_index">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.398748346939,54.3986162181328 23.4031285046229,54.4031307829256 23.4120202529762,54.4031743990693 23.4165299005793,54.3987034360567 23.4121487359828,54.3941893515295 23.4032589303401,54.3941457497467 23.398748346939,54.3986162181328</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">18</SimpleData>
+		<SimpleData name="left">460958.129403784</SimpleData>
+		<SimpleData name="top">6028745.9915</SimpleData>
+		<SimpleData name="right">462112.829942164</SimpleData>
+		<SimpleData name="bottom">6027745.9915</SimpleData>
+		<SimpleData name="row_index">8</SimpleData>
+		<SimpleData name="col_index">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.3988797079209,54.3896311853801 23.4032589303401,54.3941457497467 23.4121487359828,54.3941893515295 23.4166573772067,54.3897183745885 23.4122771484346,54.3852042903287 23.403389284436,54.3851607029006 23.3988797079209,54.3896311853801</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">19</SimpleData>
+		<SimpleData name="left">461824.154807569</SimpleData>
+		<SimpleData name="top">6037245.9915</SimpleData>
+		<SimpleData name="right">462978.855345948</SimpleData>
+		<SimpleData name="bottom">6036245.9915</SimpleData>
+		<SimpleData name="row_index">0</SimpleData>
+		<SimpleData name="col_index">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4111188919772,54.4660693494511 23.4155075614613,54.4705834362532 23.4244139495913,54.470626175985 23.4289297171173,54.4661548148286 23.4245400373003,54.461641209654 23.4156355999325,54.4615984840059 23.4111188919772,54.4660693494511</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">20</SimpleData>
+		<SimpleData name="left">461824.154807569</SimpleData>
+		<SimpleData name="top">6036245.9915</SimpleData>
+		<SimpleData name="right">462978.855345948</SimpleData>
+		<SimpleData name="bottom">6035245.9915</SimpleData>
+		<SimpleData name="row_index">1</SimpleData>
+		<SimpleData name="col_index">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4112478703411,54.4570843975014 23.4156355999325,54.4615984840059 23.4245400373003,54.461641209654 23.4290547950298,54.4571698347176 23.424666055668,54.4526562296812 23.4157635679897,54.4526135181106 23.4112478703411,54.4570843975014</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">21</SimpleData>
+		<SimpleData name="left">461824.154807569</SimpleData>
+		<SimpleData name="top">6035245.9915</SimpleData>
+		<SimpleData name="right">462978.855345948</SimpleData>
+		<SimpleData name="bottom">6034245.9915</SimpleData>
+		<SimpleData name="row_index">2</SimpleData>
+		<SimpleData name="col_index">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4113767777814,54.4480994318998 23.4157635679897,54.4526135181106 23.424666055668,54.4526562296812 23.4291798041632,54.4481848409672 23.4247920047463,54.4436712360652 23.4158914656857,54.443628538566 23.4113767777814,54.4480994318998</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">22</SimpleData>
+		<SimpleData name="left">461824.154807569</SimpleData>
+		<SimpleData name="top">6034245.9915</SimpleData>
+		<SimpleData name="right">462978.855345948</SimpleData>
+		<SimpleData name="bottom">6033245.9915</SimpleData>
+		<SimpleData name="row_index">3</SimpleData>
+		<SimpleData name="col_index">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4115056143509,54.4391144526452 23.4158914656857,54.443628538566 23.4247920047463,54.4436712360652 23.4293047445685,54.4391998335759 23.4249178845867,54.4346862288046 23.4160192930728,54.4346435453707 23.4115056143509,54.4391144526452</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">23</SimpleData>
+		<SimpleData name="left">461824.154807569</SimpleData>
+		<SimpleData name="top">6033245.9915</SimpleData>
+		<SimpleData name="right">462978.855345948</SimpleData>
+		<SimpleData name="bottom">6032245.9915</SimpleData>
+		<SimpleData name="row_index">4</SimpleData>
+		<SimpleData name="col_index">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4116343801024,54.4301294597361 23.4160192930728,54.4346435453707 23.4249178845867,54.4346862288046 23.4294296162972,54.4302148125424 23.4250436952409,54.4257012078982 23.4161470502034,54.4256585385234 23.4116343801024,54.4301294597361</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">24</SimpleData>
+		<SimpleData name="left">461824.154807569</SimpleData>
+		<SimpleData name="top">6032245.9915</SimpleData>
+		<SimpleData name="right">462978.855345948</SimpleData>
+		<SimpleData name="bottom">6031245.9915</SimpleData>
+		<SimpleData name="row_index">5</SimpleData>
+		<SimpleData name="col_index">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4117630750886,54.4211444531713 23.4161470502034,54.4256585385234 23.4250436952409,54.4257012078982 23.4295544194003,54.4212297778656 23.4251694367603,54.4167161733448 23.4162747371298,54.4166735180229 23.4117630750886,54.4211444531713</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">25</SimpleData>
+		<SimpleData name="left">461824.154807569</SimpleData>
+		<SimpleData name="top">6031245.9915</SimpleData>
+		<SimpleData name="right">462978.855345948</SimpleData>
+		<SimpleData name="bottom">6030245.9915</SimpleData>
+		<SimpleData name="row_index">6</SimpleData>
+		<SimpleData name="col_index">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4118916993624,54.4121594329495 23.4162747371298,54.4166735180229 23.4251694367603,54.4167161733448 23.429679153929,54.4122447295439 23.4252951091966,54.4077311251428 23.4164023539044,54.4076884838677 23.4118916993624,54.4121594329495</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">26</SimpleData>
+		<SimpleData name="left">461824.154807569</SimpleData>
+		<SimpleData name="top">6030245.9915</SimpleData>
+		<SimpleData name="right">462978.855345948</SimpleData>
+		<SimpleData name="bottom">6029245.9915</SimpleData>
+		<SimpleData name="row_index">7</SimpleData>
+		<SimpleData name="col_index">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4120202529762,54.4031743990693 23.4164023539044,54.4076884838677 23.4252951091966,54.4077311251428 23.4298038199343,54.4032596675762 23.425420712601,54.398746063291 23.4165299005793,54.3987034360567 23.4120202529762,54.4031743990693</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">27</SimpleData>
+		<SimpleData name="left">461824.154807569</SimpleData>
+		<SimpleData name="top">6029245.9915</SimpleData>
+		<SimpleData name="right">462978.855345948</SimpleData>
+		<SimpleData name="bottom">6028245.9915</SimpleData>
+		<SimpleData name="row_index">8</SimpleData>
+		<SimpleData name="col_index">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4121487359828,54.3941893515295 23.4165299005793,54.3987034360567 23.425420712601,54.398746063291 23.4299284174672,54.394274591961 23.425546247025,54.3897609877882 23.4166573772067,54.3897183745885 23.4121487359828,54.3941893515295</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">28</SimpleData>
+		<SimpleData name="left">462690.180211353</SimpleData>
+		<SimpleData name="top">6036745.9915</SimpleData>
+		<SimpleData name="right">463844.880749732</SimpleData>
+		<SimpleData name="bottom">6035745.9915</SimpleData>
+		<SimpleData name="row_index">0</SimpleData>
+		<SimpleData name="col_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4245400373003,54.461641209654 23.4289297171173,54.4661548148286 23.4378351642814,54.4661965633528 23.4423489810195,54.4617246929436 23.4379582919425,54.4572115694854 23.4290547950298,54.4571698347176 23.4245400373003,54.461641209654</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">29</SimpleData>
+		<SimpleData name="left">462690.180211353</SimpleData>
+		<SimpleData name="top">6035745.9915</SimpleData>
+		<SimpleData name="right">463844.880749732</SimpleData>
+		<SimpleData name="bottom">6034745.9915</SimpleData>
+		<SimpleData name="row_index">1</SimpleData>
+		<SimpleData name="col_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.424666055668,54.4526562296812 23.4290547950298,54.4571698347176 23.4379582919425,54.4572115694854 23.4424710999568,54.452739685464 23.4380813518966,54.4482265619846 23.4291798041632,54.4481848409672 23.424666055668,54.4526562296812</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">30</SimpleData>
+		<SimpleData name="left">462690.180211353</SimpleData>
+		<SimpleData name="top">6034745.9915</SimpleData>
+		<SimpleData name="right">463844.880749732</SimpleData>
+		<SimpleData name="bottom">6033745.9915</SimpleData>
+		<SimpleData name="row_index">2</SimpleData>
+		<SimpleData name="col_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4247920047463,54.4436712360652 23.4291798041632,54.4481848409672 23.4380813518966,54.4482265619846 23.4425931517483,54.4437546643533 23.4382043441942,54.439241540849 23.4293047445685,54.4391998335759 23.4247920047463,54.4436712360652</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">31</SimpleData>
+		<SimpleData name="left">462690.180211353</SimpleData>
+		<SimpleData name="top">6033745.9915</SimpleData>
+		<SimpleData name="right">463844.880749732</SimpleData>
+		<SimpleData name="bottom">6032745.9915</SimpleData>
+		<SimpleData name="row_index">3</SimpleData>
+		<SimpleData name="col_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4249178845867,54.4346862288046 23.4293047445685,54.4391998335759 23.4382043441942,54.439241540849 23.4427151364441,54.43476962961 23.4383272688857,54.4302565060772 23.4294296162972,54.4302148125424 23.4249178845867,54.4346862288046</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">32</SimpleData>
+		<SimpleData name="left">462690.180211353</SimpleData>
+		<SimpleData name="top">6032745.9915</SimpleData>
+		<SimpleData name="right">463844.880749732</SimpleData>
+		<SimpleData name="bottom">6031745.9915</SimpleData>
+		<SimpleData name="row_index">4</SimpleData>
+		<SimpleData name="col_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4250436952409,54.4257012078982 23.4294296162972,54.4302148125424 23.4383272688857,54.4302565060772 23.4428370540941,54.425784581233 23.4384501260216,54.4212714576679 23.4295544194003,54.4212297778656 23.4250436952409,54.4257012078982</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">33</SimpleData>
+		<SimpleData name="left">462690.180211353</SimpleData>
+		<SimpleData name="top">6031745.9915</SimpleData>
+		<SimpleData name="right">463844.880749732</SimpleData>
+		<SimpleData name="bottom">6030745.9915</SimpleData>
+		<SimpleData name="row_index">5</SimpleData>
+		<SimpleData name="col_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4251694367603,54.4167161733448 23.4295544194003,54.4212297778656 23.4384501260216,54.4212714576679 23.4429589047484,54.4167995192207 23.438572915652,54.4122863956199 23.429679153929,54.4122447295439 23.4251694367603,54.4167161733448</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">34</SimpleData>
+		<SimpleData name="left">462690.180211353</SimpleData>
+		<SimpleData name="top">6030745.9915</SimpleData>
+		<SimpleData name="right">463844.880749732</SimpleData>
+		<SimpleData name="bottom">6029745.9915</SimpleData>
+		<SimpleData name="row_index">6</SimpleData>
+		<SimpleData name="col_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4252951091966,54.4077311251428 23.429679153929,54.4122447295439 23.438572915652,54.4122863956199 23.4430806884568,54.407814443572 23.4386956378274,54.4033013199318 23.4298038199343,54.4032596675762 23.4252951091966,54.4077311251428</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">35</SimpleData>
+		<SimpleData name="left">462690.180211353</SimpleData>
+		<SimpleData name="top">6029745.9915</SimpleData>
+		<SimpleData name="right">463844.880749732</SimpleData>
+		<SimpleData name="bottom">6028745.9915</SimpleData>
+		<SimpleData name="row_index">7</SimpleData>
+		<SimpleData name="col_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.425420712601,54.398746063291 23.4298038199343,54.4032596675762 23.4386956378274,54.4033013199318 23.4432024052691,54.3988293542854 23.4388182925979,54.3943162306022 23.4299284174672,54.394274591961 23.425420712601,54.398746063291</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">36</SimpleData>
+		<SimpleData name="left">462690.180211353</SimpleData>
+		<SimpleData name="top">6028745.9915</SimpleData>
+		<SimpleData name="right">463844.880749732</SimpleData>
+		<SimpleData name="bottom">6027745.9915</SimpleData>
+		<SimpleData name="row_index">8</SimpleData>
+		<SimpleData name="col_index">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.425546247025,54.3897609877882 23.4299284174672,54.394274591961 23.4388182925979,54.3943162306022 23.4433240552352,54.3898442513597 23.4389408800137,54.3853311276299 23.4300529465787,54.3852895026971 23.425546247025,54.3897609877882</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">37</SimpleData>
+		<SimpleData name="left">463556.205615138</SimpleData>
+		<SimpleData name="top">6037245.9915</SimpleData>
+		<SimpleData name="right">464710.906153517</SimpleData>
+		<SimpleData name="bottom">6036245.9915</SimpleData>
+		<SimpleData name="row_index">0</SimpleData>
+		<SimpleData name="col_index">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4378351642814,54.4661965633528 23.4422267948864,54.4707096867933 23.4511332513358,54.4707504578624 23.4556461260095,54.4662780920536 23.4512534866558,54.4617654505777 23.4423489810195,54.4617246929436 23.4378351642814,54.4661965633528</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">38</SimpleData>
+		<SimpleData name="left">463556.205615138</SimpleData>
+		<SimpleData name="top">6036245.9915</SimpleData>
+		<SimpleData name="right">464710.906153517</SimpleData>
+		<SimpleData name="bottom">6035245.9915</SimpleData>
+		<SimpleData name="row_index">1</SimpleData>
+		<SimpleData name="col_index">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4379582919425,54.4572115694854 23.4423489810195,54.4617246929436 23.4512534866558,54.4617654505777 23.4557653531173,54.457293071322 23.4513736558527,54.4527804296689 23.4424710999568,54.452739685464 23.4379582919425,54.4572115694854</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">39</SimpleData>
+		<SimpleData name="left">463556.205615138</SimpleData>
+		<SimpleData name="top">6035245.9915</SimpleData>
+		<SimpleData name="right">464710.906153517</SimpleData>
+		<SimpleData name="bottom">6034245.9915</SimpleData>
+		<SimpleData name="row_index">2</SimpleData>
+		<SimpleData name="col_index">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4380813518966,54.4482265619846 23.4424710999568,54.452739685464 23.4513736558527,54.4527804296689 23.4558845146627,54.4483080369687 23.4514937589757,54.4437953951349 23.4425931517483,54.4437546643533 23.4380813518966,54.4482265619846</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">40</SimpleData>
+		<SimpleData name="left">463556.205615138</SimpleData>
+		<SimpleData name="top">6034245.9915</SimpleData>
+		<SimpleData name="right">464710.906153517</SimpleData>
+		<SimpleData name="bottom">6033245.9915</SimpleData>
+		<SimpleData name="row_index">3</SimpleData>
+		<SimpleData name="col_index">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4382043441942,54.439241540849 23.4425931517483,54.4437546643533 23.4514937589757,54.4437953951349 23.4560036106946,54.4393229889922 23.451613796074,54.4348103469741 23.4427151364441,54.43476962961 23.4382043441942,54.439241540849</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">41</SimpleData>
+		<SimpleData name="left">463556.205615138</SimpleData>
+		<SimpleData name="top">6033245.9915</SimpleData>
+		<SimpleData name="right">464710.906153517</SimpleData>
+		<SimpleData name="bottom">6032245.9915</SimpleData>
+		<SimpleData name="row_index">4</SimpleData>
+		<SimpleData name="col_index">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4383272688857,54.4302565060772 23.4427151364441,54.43476962961 23.451613796074,54.4348103469741 23.4561226412618,54.4303379273914 23.4517337671969,54.4258252851854 23.4428370540941,54.425784581233 23.4383272688857,54.4302565060772</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">42</SimpleData>
+		<SimpleData name="left">463556.205615138</SimpleData>
+		<SimpleData name="top">6032245.9915</SimpleData>
+		<SimpleData name="right">464710.906153517</SimpleData>
+		<SimpleData name="bottom">6031245.9915</SimpleData>
+		<SimpleData name="row_index">5</SimpleData>
+		<SimpleData name="col_index">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4384501260216,54.4212714576679 23.4428370540941,54.425784581233 23.4517337671969,54.4258252851854 23.4562416064131,54.4213528521648 23.4518536723935,54.4168402097674 23.4429589047484,54.4167995192207 23.4384501260216,54.4212714576679</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">43</SimpleData>
+		<SimpleData name="left">463556.205615138</SimpleData>
+		<SimpleData name="top">6031245.9915</SimpleData>
+		<SimpleData name="right">464710.906153517</SimpleData>
+		<SimpleData name="bottom">6030245.9915</SimpleData>
+		<SimpleData name="row_index">6</SimpleData>
+		<SimpleData name="col_index">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4385729156521,54.4122863956199 23.4429589047484,54.4167995192207 23.4518536723935,54.4168402097674 23.4563605061972,54.4123677633111 23.4519735117129,54.4078551207188 23.4430806884568,54.407814443572 23.4385729156521,54.4122863956199</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">44</SimpleData>
+		<SimpleData name="left">463556.205615138</SimpleData>
+		<SimpleData name="top">6030245.9915</SimpleData>
+		<SimpleData name="right">464710.906153517</SimpleData>
+		<SimpleData name="bottom">6029245.9915</SimpleData>
+		<SimpleData name="row_index">7</SimpleData>
+		<SimpleData name="col_index">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4386956378274,54.4033013199318 23.4430806884568,54.407814443572 23.4519735117129,54.4078551207188 23.4564793406627,54.403382660829 23.4520932852042,54.3988700180382 23.4432024052691,54.3988293542854 23.4386956378274,54.4033013199318</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">45</SimpleData>
+		<SimpleData name="left">463556.205615138</SimpleData>
+		<SimpleData name="top">6029245.9915</SimpleData>
+		<SimpleData name="right">464710.906153517</SimpleData>
+		<SimpleData name="bottom">6028245.9915</SimpleData>
+		<SimpleData name="row_index">8</SimpleData>
+		<SimpleData name="col_index">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4388182925979,54.3943162306022 23.4432024052691,54.3988293542854 23.4520932852042,54.3988700180382 23.4565981098585,54.3943975447171 23.4522129929163,54.3898849017243 23.4433240552352,54.3898442513597 23.4388182925979,54.3943162306022</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">46</SimpleData>
+		<SimpleData name="left">464422.231018922</SimpleData>
+		<SimpleData name="top">6036745.9915</SimpleData>
+		<SimpleData name="right">465576.931557301</SimpleData>
+		<SimpleData name="bottom">6035745.9915</SimpleData>
+		<SimpleData name="row_index">0</SimpleData>
+		<SimpleData name="col_index">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4512534866558,54.4617654505777 23.4556461260095,54.4662780920536 23.464551639858,54.466317872223 23.4690625636941,54.4618449978063 23.4646689166646,54.4573328383835 23.4557653531173,54.457293071322 23.4512534866558,54.4617654505777</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">47</SimpleData>
+		<SimpleData name="left">464422.231018922</SimpleData>
+		<SimpleData name="top">6035745.9915</SimpleData>
+		<SimpleData name="right">465576.931557301</SimpleData>
+		<SimpleData name="bottom">6034745.9915</SimpleData>
+		<SimpleData name="row_index">1</SimpleData>
+		<SimpleData name="col_index">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4513736558527,54.4527804296689 23.4557653531173,54.457293071322 23.4646689166646,54.4573328383835 23.4691788333611,54.4528599506875 23.4647861289811,54.4483477909281 23.4558845146627,54.4483080369687 23.4513736558527,54.4527804296689</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">48</SimpleData>
+		<SimpleData name="left">464422.231018922</SimpleData>
+		<SimpleData name="top">6034745.9915</SimpleData>
+		<SimpleData name="right">465576.931557301</SimpleData>
+		<SimpleData name="bottom">6033745.9915</SimpleData>
+		<SimpleData name="row_index">2</SimpleData>
+		<SimpleData name="col_index">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4514937589757,54.4437953951349 23.4558845146627,54.4483080369687 23.4647861289811,54.4483477909281 23.469295039098,54.4438748899549 23.4649032768555,54.4393627298552 23.4560036106946,54.4393229889922 23.4514937589757,54.4437953951349</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">49</SimpleData>
+		<SimpleData name="left">464422.231018922</SimpleData>
+		<SimpleData name="top">6033745.9915</SimpleData>
+		<SimpleData name="right">465576.931557301</SimpleData>
+		<SimpleData name="bottom">6032745.9915</SimpleData>
+		<SimpleData name="row_index">3</SimpleData>
+		<SimpleData name="col_index">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.451613796074,54.4348103469741 23.4560036106946,54.4393229889922 23.4649032768555,54.4393627298552 23.4694111809525,54.4348898156071 23.4650203603361,54.4303776551637 23.4561226412618,54.4303379273914 23.451613796074,54.4348103469741</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">50</SimpleData>
+		<SimpleData name="left">464422.231018922</SimpleData>
+		<SimpleData name="top">6032745.9915</SimpleData>
+		<SimpleData name="right">465576.931557301</SimpleData>
+		<SimpleData name="bottom">6031745.9915</SimpleData>
+		<SimpleData name="row_index">4</SimpleData>
+		<SimpleData name="col_index">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4517337671969,54.4258252851854 23.4561226412618,54.4303379273914 23.4650203603361,54.4303776551637 23.4695272589722,54.4259047276427 23.4651373794706,54.4213925668521 23.4562416064131,54.4213528521648 23.4517337671969,54.4258252851854</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">51</SimpleData>
+		<SimpleData name="left">464422.231018922</SimpleData>
+		<SimpleData name="top">6031745.9915</SimpleData>
+		<SimpleData name="right">465576.931557301</SimpleData>
+		<SimpleData name="bottom">6030745.9915</SimpleData>
+		<SimpleData name="row_index">5</SimpleData>
+		<SimpleData name="col_index">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4518536723935,54.4168402097674 23.4562416064131,54.4213528521648 23.4651373794706,54.4213925668521 23.4696432732046,54.4169196260604 23.465254334307,54.4124074649191 23.4563605061972,54.4123677633111 23.4518536723935,54.4168402097674</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">52</SimpleData>
+		<SimpleData name="left">464422.231018922</SimpleData>
+		<SimpleData name="top">6030745.9915</SimpleData>
+		<SimpleData name="right">465576.931557301</SimpleData>
+		<SimpleData name="bottom">6029745.9915</SimpleData>
+		<SimpleData name="row_index">6</SimpleData>
+		<SimpleData name="col_index">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4519735117129,54.4078551207188 23.4563605061972,54.4123677633111 23.465254334307,54.4124074649191 23.4697592236973,54.4079345108589 23.4653712248933,54.4034223493634 23.4564793406627,54.403382660829 23.4519735117129,54.4078551207188</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">53</SimpleData>
+		<SimpleData name="left">464422.231018922</SimpleData>
+		<SimpleData name="top">6029745.9915</SimpleData>
+		<SimpleData name="right">465576.931557301</SimpleData>
+		<SimpleData name="bottom">6028745.9915</SimpleData>
+		<SimpleData name="row_index">7</SimpleData>
+		<SimpleData name="col_index">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4520932852042,54.3988700180382 23.4564793406627,54.403382660829 23.4653712248933,54.4034223493634 23.4698751104977,54.3989493820368 23.4654880512772,54.3944372201837 23.4565981098585,54.3943975447171 23.4520932852042,54.3988700180382</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">54</SimpleData>
+		<SimpleData name="left">464422.231018922</SimpleData>
+		<SimpleData name="top">6028745.9915</SimpleData>
+		<SimpleData name="right">465576.931557301</SimpleData>
+		<SimpleData name="bottom">6027745.9915</SimpleData>
+		<SimpleData name="row_index">8</SimpleData>
+		<SimpleData name="col_index">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4522129929163,54.3898849017243 23.4565981098585,54.3943975447171 23.4654880512772,54.3944372201837 23.4699909336532,54.3899642395929 23.4656048135065,54.3854520773785 23.4567168138328,54.3854124149742 23.4522129929163,54.3898849017243</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">55</SimpleData>
+		<SimpleData name="left">465288.256422707</SimpleData>
+		<SimpleData name="top">6037245.9915</SimpleData>
+		<SimpleData name="right">466442.956961086</SimpleData>
+		<SimpleData name="bottom">6036245.9915</SimpleData>
+		<SimpleData name="row_index">0</SimpleData>
+		<SimpleData name="col_index">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.464551639858,54.466317872223 23.4689462300494,54.4708300313125 23.4778527515978,54.4708688336864 23.4823627317356,54.4663954641822 23.4779671343809,54.4618837873938 23.4690625636941,54.4618449978063 23.464551639858,54.466317872223</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">56</SimpleData>
+		<SimpleData name="left">465288.256422707</SimpleData>
+		<SimpleData name="top">6036245.9915</SimpleData>
+		<SimpleData name="right">466442.956961086</SimpleData>
+		<SimpleData name="bottom">6035245.9915</SimpleData>
+		<SimpleData name="row_index">1</SimpleData>
+		<SimpleData name="col_index">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4646689166646,54.4573328383835 23.4690625636941,54.4618449978063 23.4779671343809,54.4618837873938 23.4824761078918,54.4574104047755 23.478081454259,54.4528987274943 23.4691788333611,54.4528599506875 23.4646689166646,54.4573328383835</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">57</SimpleData>
+		<SimpleData name="left">465288.256422707</SimpleData>
+		<SimpleData name="top">6035245.9915</SimpleData>
+		<SimpleData name="right">466442.956961086</SimpleData>
+		<SimpleData name="bottom">6034245.9915</SimpleData>
+		<SimpleData name="row_index">2</SimpleData>
+		<SimpleData name="col_index">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4647861289811,54.4483477909281 23.4691788333611,54.4528599506875 23.478081454259,54.4528987274943 23.4825894217027,54.448425331764 23.4781957112789,54.4439136539864 23.469295039098,54.4438748899549 23.4647861289811,54.4483477909281</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">58</SimpleData>
+		<SimpleData name="left">465288.256422707</SimpleData>
+		<SimpleData name="top">6034245.9915</SimpleData>
+		<SimpleData name="right">466442.956961086</SimpleData>
+		<SimpleData name="bottom">6033245.9915</SimpleData>
+		<SimpleData name="row_index">3</SimpleData>
+		<SimpleData name="col_index">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4649032768555,54.4393627298552 23.469295039098,54.4438748899549 23.4781957112789,54.4439136539864 23.4827026732146,54.4394402451463 23.4783099054876,54.4349285668689 23.4694111809525,54.4348898156071 23.4649032768555,54.4393627298552</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">59</SimpleData>
+		<SimpleData name="left">465288.256422707</SimpleData>
+		<SimpleData name="top">6033245.9915</SimpleData>
+		<SimpleData name="right">466442.956961086</SimpleData>
+		<SimpleData name="bottom">6032245.9915</SimpleData>
+		<SimpleData name="row_index">4</SimpleData>
+		<SimpleData name="col_index">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4650203603361,54.4303776551637 23.4694111809525,54.4348898156071 23.4783099054876,54.4349285668689 23.482815862474,54.430455144921 23.4784240369317,54.4259434661405 23.4695272589722,54.4259047276427 23.4650203603361,54.4303776551637</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">60</SimpleData>
+		<SimpleData name="left">465288.256422707</SimpleData>
+		<SimpleData name="top">6032245.9915</SimpleData>
+		<SimpleData name="right">466442.956961086</SimpleData>
+		<SimpleData name="bottom">6031245.9915</SimpleData>
+		<SimpleData name="row_index">5</SimpleData>
+		<SimpleData name="col_index">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4651373794706,54.4213925668521 23.4695272589722,54.4259047276427 23.4784240369317,54.4259434661405 23.4829289895273,54.4214700310869 23.4785381056582,54.4169583517997 23.4696432732046,54.4169196260604 23.4651373794706,54.4213925668521</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">61</SimpleData>
+		<SimpleData name="left">465288.256422707</SimpleData>
+		<SimpleData name="top">6031245.9915</SimpleData>
+		<SimpleData name="right">466442.956961086</SimpleData>
+		<SimpleData name="bottom">6030245.9915</SimpleData>
+		<SimpleData name="row_index">6</SimpleData>
+		<SimpleData name="col_index">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.465254334307,54.4124074649191 23.4696432732046,54.4169196260604 23.4785381056582,54.4169583517997 23.4830420544208,54.4124849036424 23.4786521117137,54.4079732238452 23.4697592236973,54.4079345108589 23.465254334307,54.4124074649191</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">62</SimpleData>
+		<SimpleData name="left">465288.256422707</SimpleData>
+		<SimpleData name="top">6030245.9915</SimpleData>
+		<SimpleData name="right">466442.956961086</SimpleData>
+		<SimpleData name="bottom">6029245.9915</SimpleData>
+		<SimpleData name="row_index">7</SimpleData>
+		<SimpleData name="col_index">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4653712248933,54.4034223493634 23.4697592236973,54.4079345108589 23.4786521117137,54.4079732238452 23.4831550572008,54.4034997625864 23.4787660551447,54.3989880822758 23.4698751104977,54.3989493820368 23.4653712248933,54.4034223493634</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">63</SimpleData>
+		<SimpleData name="left">465288.256422707</SimpleData>
+		<SimpleData name="top">6029245.9915</SimpleData>
+		<SimpleData name="right">466442.956961086</SimpleData>
+		<SimpleData name="bottom">6028245.9915</SimpleData>
+		<SimpleData name="row_index">8</SimpleData>
+		<SimpleData name="col_index">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4654880512772,54.3944372201837 23.4698751104977,54.3989493820368 23.4787660551447,54.3989880822758 23.4832679979136,54.3945146079174 23.4788799359981,54.3900029270899 23.4699909336532,54.3899642395929 23.4654880512772,54.3944372201837</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">64</SimpleData>
+		<SimpleData name="left">466154.281826491</SimpleData>
+		<SimpleData name="top">6036745.9915</SimpleData>
+		<SimpleData name="right">467308.98236487</SimpleData>
+		<SimpleData name="bottom">6035745.9915</SimpleData>
+		<SimpleData name="row_index">0</SimpleData>
+		<SimpleData name="col_index">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4779671343809,54.4618837873938 23.4823627317356,54.4663954641822 23.4912683090492,54.4664332759651 23.495776338302,54.4619593984982 23.4913797348569,54.4574482040991 23.4824761078918,54.4574104047755 23.4779671343809,54.4618837873938</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">65</SimpleData>
+		<SimpleData name="left">466154.281826491</SimpleData>
+		<SimpleData name="top">6035745.9915</SimpleData>
+		<SimpleData name="right">467308.98236487</SimpleData>
+		<SimpleData name="bottom">6034745.9915</SimpleData>
+		<SimpleData name="row_index">1</SimpleData>
+		<SimpleData name="col_index">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.478081454259,54.4528987274943 23.4824761078918,54.4574104047755 23.4913797348569,54.4574482040991 23.4958867585555,54.4529743136854 23.4914910993915,54.4484631186337 23.4825894217027,54.448425331764 23.478081454259,54.4528987274943</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">66</SimpleData>
+		<SimpleData name="left">466154.281826491</SimpleData>
+		<SimpleData name="top">6034745.9915</SimpleData>
+		<SimpleData name="right">467308.98236487</SimpleData>
+		<SimpleData name="bottom">6033745.9915</SimpleData>
+		<SimpleData name="row_index">2</SimpleData>
+		<SimpleData name="col_index">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4781957112789,54.4439136539864 23.4825894217027,54.448425331764 23.4914910993915,54.4484631186337 23.4959971180949,54.4439892152752 23.4916024026988,54.4394780195676 23.4827026732146,54.4394402451463 23.4781957112789,54.4439136539864</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">67</SimpleData>
+		<SimpleData name="left">466154.281826491</SimpleData>
+		<SimpleData name="top">6033745.9915</SimpleData>
+		<SimpleData name="right">467308.98236487</SimpleData>
+		<SimpleData name="bottom">6032745.9915</SimpleData>
+		<SimpleData name="row_index">3</SimpleData>
+		<SimpleData name="col_index">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4783099054876,54.4349285668689 23.4827026732146,54.4394402451463 23.4916024026988,54.4394780195676 23.4961074169653,54.4350041032663 23.4917136448243,54.4304929068993 23.482815862474,54.430455144921 23.4783099054876,54.4349285668689</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">68</SimpleData>
+		<SimpleData name="left">466154.281826491</SimpleData>
+		<SimpleData name="top">6032745.9915</SimpleData>
+		<SimpleData name="right">467308.98236487</SimpleData>
+		<SimpleData name="bottom">6031745.9915</SimpleData>
+		<SimpleData name="row_index">4</SimpleData>
+		<SimpleData name="col_index">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4784240369317,54.4259434661405 23.482815862474,54.430455144921 23.4917136448243,54.4304929068993 23.496217655212,54.4260189776572 23.4918248258137,54.4215077806275 23.4829289895273,54.4214700310869 23.4784240369317,54.4259434661405</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">69</SimpleData>
+		<SimpleData name="left">466154.281826491</SimpleData>
+		<SimpleData name="top">6031745.9915</SimpleData>
+		<SimpleData name="right">467308.98236487</SimpleData>
+		<SimpleData name="bottom">6030745.9915</SimpleData>
+		<SimpleData name="row_index">5</SimpleData>
+		<SimpleData name="col_index">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4785381056582,54.4169583517997 23.4829289895273,54.4214700310869 23.4918248258137,54.4215077806275 23.4963278328801,54.4170338384466 23.4919359457125,54.4125226407509 23.4830420544208,54.4124849036424 23.4785381056582,54.4169583517997</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">70</SimpleData>
+		<SimpleData name="left">466154.281826491</SimpleData>
+		<SimpleData name="top">6030745.9915</SimpleData>
+		<SimpleData name="right">467308.98236487</SimpleData>
+		<SimpleData name="bottom">6029745.9915</SimpleData>
+		<SimpleData name="row_index">6</SimpleData>
+		<SimpleData name="col_index">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4786521117137,54.4079732238452 23.4830420544208,54.4124849036424 23.4919359457125,54.4125226407509 23.4964379500147,54.4080486856332 23.4920470045662,54.4035374872681 23.4831550572008,54.4034997625864 23.4786521117137,54.4079732238452</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">71</SimpleData>
+		<SimpleData name="left">466154.281826491</SimpleData>
+		<SimpleData name="top">6029745.9915</SimpleData>
+		<SimpleData name="right">467308.98236487</SimpleData>
+		<SimpleData name="bottom">6028745.9915</SimpleData>
+		<SimpleData name="row_index">7</SimpleData>
+		<SimpleData name="col_index">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4787660551447,54.3989880822758 23.4831550572008,54.4034997625864 23.4920470045662,54.4035374872681 23.4965480066609,54.3990635192157 23.4921580024201,54.3945523201778 23.4832679979136,54.3945146079174 23.4787660551447,54.3989880822758</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">72</SimpleData>
+		<SimpleData name="left">466154.281826491</SimpleData>
+		<SimpleData name="top">6028745.9915</SimpleData>
+		<SimpleData name="right">467308.98236487</SimpleData>
+		<SimpleData name="bottom">6027745.9915</SimpleData>
+		<SimpleData name="row_index">8</SimpleData>
+		<SimpleData name="col_index">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4788799359981,54.3900029270899 23.4832679979136,54.3945146079174 23.4921580024201,54.3945523201778 23.4966580028637,54.3900783391926 23.4922689393198,54.3855671394787 23.4833808766053,54.3855294396342 23.4788799359981,54.3900029270899</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">73</SimpleData>
+		<SimpleData name="left">467020.307230275</SimpleData>
+		<SimpleData name="top">6037245.9915</SimpleData>
+		<SimpleData name="right">468175.007768655</SimpleData>
+		<SimpleData name="bottom">6036245.9915</SimpleData>
+		<SimpleData name="row_index">0</SimpleData>
+		<SimpleData name="col_index">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4912683090492,54.4664332759651 23.4956658572889,54.4709444697148 23.5045724407157,54.4709813033627 23.5090795246374,54.4665069311209 23.504680970821,54.4619962200083 23.495776338302,54.4619593984982 23.4912683090492,54.4664332759651</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">74</SimpleData>
+		<SimpleData name="left">467020.307230275</SimpleData>
+		<SimpleData name="top">6036245.9915</SimpleData>
+		<SimpleData name="right">468175.007768655</SimpleData>
+		<SimpleData name="bottom">6035245.9915</SimpleData>
+		<SimpleData name="row_index">1</SimpleData>
+		<SimpleData name="col_index">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4913797348569,54.4574482040991 23.495776338302,54.4619593984982 23.504680970821,54.4619962200083 23.5091870497025,54.4575218349848 23.5047894412396,54.4530111230631 23.4958867585555,54.4529743136854 23.4913797348569,54.4574482040991</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">75</SimpleData>
+		<SimpleData name="left">467020.307230275</SimpleData>
+		<SimpleData name="top">6035245.9915</SimpleData>
+		<SimpleData name="right">468175.007768655</SimpleData>
+		<SimpleData name="bottom">6034245.9915</SimpleData>
+		<SimpleData name="row_index">2</SimpleData>
+		<SimpleData name="col_index">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4914910993915,54.4484631186337 23.4958867585555,54.4529743136854 23.5047894412396,54.4530111230631 23.5092945156394,54.4485367252599 23.5048978520159,54.4440260125258 23.4959971180949,54.4439892152752 23.4914910993915,54.4484631186337</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">76</SimpleData>
+		<SimpleData name="left">467020.307230275</SimpleData>
+		<SimpleData name="top">6034245.9915</SimpleData>
+		<SimpleData name="right">468175.007768655</SimpleData>
+		<SimpleData name="bottom">6033245.9915</SimpleData>
+		<SimpleData name="row_index">3</SimpleData>
+		<SimpleData name="col_index">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4916024026988,54.4394780195676 23.4959971180949,54.4439892152752 23.5048978520159,54.4440260125258 23.509401922492,54.4395516019448 23.5050062031945,54.435040888395 23.4961074169653,54.4350041032663 23.4916024026988,54.4394780195676</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">77</SimpleData>
+		<SimpleData name="left">467020.307230275</SimpleData>
+		<SimpleData name="top">6033245.9915</SimpleData>
+		<SimpleData name="right">468175.007768655</SimpleData>
+		<SimpleData name="bottom">6032245.9915</SimpleData>
+		<SimpleData name="row_index">4</SimpleData>
+		<SimpleData name="col_index">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4917136448243,54.4304929068993 23.4961074169653,54.4350041032663 23.5050062031945,54.435040888395 23.5095092703045,54.4305664650381 23.5051144948197,54.4260557506694 23.496217655212,54.4260189776572 23.4917136448243,54.4304929068993</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">78</SimpleData>
+		<SimpleData name="left">467020.307230275</SimpleData>
+		<SimpleData name="top">6032245.9915</SimpleData>
+		<SimpleData name="right">468175.007768655</SimpleData>
+		<SimpleData name="bottom">6031245.9915</SimpleData>
+		<SimpleData name="row_index">5</SimpleData>
+		<SimpleData name="col_index">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4918248258137,54.4215077806275 23.496217655212,54.4260189776572 23.5051144948197,54.4260557506694 23.5096165591208,54.4215813145386 23.5052227269359,54.4170705993476 23.4963278328801,54.4170338384466 23.4918248258137,54.4215077806275</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">79</SimpleData>
+		<SimpleData name="left">467020.307230275</SimpleData>
+		<SimpleData name="top">6031245.9915</SimpleData>
+		<SimpleData name="right">468175.007768655</SimpleData>
+		<SimpleData name="bottom">6030245.9915</SimpleData>
+		<SimpleData name="row_index">6</SimpleData>
+		<SimpleData name="col_index">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4919359457125,54.4125226407509 23.4963278328801,54.4170338384466 23.5052227269359,54.4170705993476 23.5097237889849,54.4125961504448 23.5053308995874,54.4080854344283 23.4964379500147,54.4080486856332 23.4919359457125,54.4125226407509</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">80</SimpleData>
+		<SimpleData name="left">467020.307230275</SimpleData>
+		<SimpleData name="top">6030245.9915</SimpleData>
+		<SimpleData name="right">468175.007768655</SimpleData>
+		<SimpleData name="bottom">6029245.9915</SimpleData>
+		<SimpleData name="row_index">7</SimpleData>
+		<SimpleData name="col_index">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4920470045662,54.4035374872681 23.4964379500147,54.4080486856332 23.5053308995874,54.4080854344283 23.5098309599406,54.4036109727554 23.5054390128185,54.39910025591 23.4965480066609,54.3990635192157 23.4920470045662,54.4035374872681</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">81</SimpleData>
+		<SimpleData name="left">467020.307230275</SimpleData>
+		<SimpleData name="top">6029245.9915</SimpleData>
+		<SimpleData name="right">468175.007768655</SimpleData>
+		<SimpleData name="bottom">6028245.9915</SimpleData>
+		<SimpleData name="row_index">8</SimpleData>
+		<SimpleData name="col_index">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.4921580024201,54.3945523201778 23.4965480066609,54.3990635192157 23.5054390128185,54.39910025591 23.5099380720319,54.394625781469 23.5055470666734,54.3901150637915 23.4966580028637,54.3900783391926 23.4921580024201,54.3945523201778</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">82</SimpleData>
+		<SimpleData name="left">467886.33263406</SimpleData>
+		<SimpleData name="top">6036745.9915</SimpleData>
+		<SimpleData name="right">469041.033172439</SimpleData>
+		<SimpleData name="bottom">6035745.9915</SimpleData>
+		<SimpleData name="row_index">0</SimpleData>
+		<SimpleData name="col_index">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.504680970821,54.4619962200083 23.5090795246374,54.4665069311209 23.5179851621966,54.4665427744873 23.5224902951883,54.4620678949281 23.5180907368682,54.4575576665404 23.5091870497025,54.4575218349848 23.504680970821,54.4619962200083</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">83</SimpleData>
+		<SimpleData name="left">467886.33263406</SimpleData>
+		<SimpleData name="top">6035745.9915</SimpleData>
+		<SimpleData name="right">469041.033172439</SimpleData>
+		<SimpleData name="bottom">6034745.9915</SimpleData>
+		<SimpleData name="row_index">1</SimpleData>
+		<SimpleData name="col_index">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5047894412396,54.4530111230631 23.5091870497025,54.4575218349848 23.5180907368682,54.4575576665404 23.5225948658926,54.4530827743665 23.518196253484,54.4485725450099 23.5092945156394,54.4485367252599 23.5047894412396,54.4530111230631</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">84</SimpleData>
+		<SimpleData name="left">467886.33263406</SimpleData>
+		<SimpleData name="top">6034745.9915</SimpleData>
+		<SimpleData name="right">469041.033172439</SimpleData>
+		<SimpleData name="bottom">6033745.9915</SimpleData>
+		<SimpleData name="row_index">2</SimpleData>
+		<SimpleData name="col_index">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5048978520159,54.4440260125258 23.5092945156394,54.4485367252599 23.518196253484,54.4485725450099 23.5226993790987,54.4440976402231 23.5183017120872,54.4395874098943 23.509401922492,54.4395516019448 23.5048978520159,54.4440260125258</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">85</SimpleData>
+		<SimpleData name="left">467886.33263406</SimpleData>
+		<SimpleData name="top">6033745.9915</SimpleData>
+		<SimpleData name="right">469041.033172439</SimpleData>
+		<SimpleData name="bottom">6032745.9915</SimpleData>
+		<SimpleData name="row_index">3</SimpleData>
+		<SimpleData name="col_index">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5050062031945,54.435040888395 23.509401922492,54.4395516019448 23.5183017120872,54.4395874098943 23.5228038348494,54.4351124924966 23.518407112721,54.4306022611923 23.5095092703045,54.4305664650381 23.5050062031945,54.435040888395</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">86</SimpleData>
+		<SimpleData name="left">467886.33263406</SimpleData>
+		<SimpleData name="top">6032745.9915</SimpleData>
+		<SimpleData name="right">469041.033172439</SimpleData>
+		<SimpleData name="bottom">6031745.9915</SimpleData>
+		<SimpleData name="row_index">4</SimpleData>
+		<SimpleData name="col_index">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5051144948197,54.4260557506694 23.5095092703045,54.4305664650381 23.518407112721,54.4306022611923 23.5229082331875,54.4261273311855 23.5185124554287,54.4216170989026 23.5096165591208,54.4215813145386 23.5051144948197,54.4260557506694</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">87</SimpleData>
+		<SimpleData name="left">467886.33263406</SimpleData>
+		<SimpleData name="top">6031745.9915</SimpleData>
+		<SimpleData name="right">469041.033172439</SimpleData>
+		<SimpleData name="bottom">6030745.9915</SimpleData>
+		<SimpleData name="row_index">5</SimpleData>
+		<SimpleData name="col_index">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5052227269359,54.4170705993476 23.5096165591208,54.4215813145386 23.5185124554287,54.4216170989026 23.5230125741559,54.4171421562884 23.5186177402533,54.4126319230237 23.5097237889849,54.4125961504448 23.5052227269359,54.4170705993476</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">88</SimpleData>
+		<SimpleData name="left">467886.33263406</SimpleData>
+		<SimpleData name="top">6030745.9915</SimpleData>
+		<SimpleData name="right">469041.033172439</SimpleData>
+		<SimpleData name="bottom">6029745.9915</SimpleData>
+		<SimpleData name="row_index">6</SimpleData>
+		<SimpleData name="col_index">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5053308995874,54.4080854344283 23.5097237889849,54.4125961504448 23.5186177402533,54.4126319230237 23.5231168577972,54.4081569678042 23.518722967238,54.4036467335544 23.5098309599406,54.4036109727554 23.5053308995874,54.4080854344283</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">89</SimpleData>
+		<SimpleData name="left">467886.33263406</SimpleData>
+		<SimpleData name="top">6029745.9915</SimpleData>
+		<SimpleData name="right">469041.033172439</SimpleData>
+		<SimpleData name="bottom">6028745.9915</SimpleData>
+		<SimpleData name="row_index">7</SimpleData>
+		<SimpleData name="col_index">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5054390128185,54.39910025591 23.5098309599406,54.4036109727554 23.518722967238,54.4036467335544 23.5232210841542,54.3991717657313 23.5188281364259,54.3946615304932 23.5099380720319,54.394625781469 23.5054390128185,54.39910025591</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">90</SimpleData>
+		<SimpleData name="left">467886.33263406</SimpleData>
+		<SimpleData name="top">6028745.9915</SimpleData>
+		<SimpleData name="right">469041.033172439</SimpleData>
+		<SimpleData name="bottom">6027745.9915</SimpleData>
+		<SimpleData name="row_index">8</SimpleData>
+		<SimpleData name="col_index">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5055470666734,54.3901150637915 23.5099380720319,54.394625781469 23.5188281364259,54.3946615304932 23.5233252532694,54.3901865500684 23.5189332478599,54.3856763138389 23.5100451253024,54.3856405765842 23.5055470666734,54.3901150637915</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">91</SimpleData>
+		<SimpleData name="left">468752.358037844</SimpleData>
+		<SimpleData name="top">6037245.9915</SimpleData>
+		<SimpleData name="right">469907.058576224</SimpleData>
+		<SimpleData name="bottom">6036245.9915</SimpleData>
+		<SimpleData name="row_index">0</SimpleData>
+		<SimpleData name="col_index">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5179851621966,54.4665427744873 23.5223856669429,54.4710530019093 23.5312923090274,54.4710878668017 23.5357964950563,54.466612492781 23.5313949863213,54.4621027483315 23.5224902951883,54.4620678949281 23.5179851621966,54.4665427744873</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">92</SimpleData>
+		<SimpleData name="left">468752.358037844</SimpleData>
+		<SimpleData name="top">6036245.9915</SimpleData>
+		<SimpleData name="right">469907.058576224</SimpleData>
+		<SimpleData name="bottom">6035245.9915</SimpleData>
+		<SimpleData name="row_index">1</SimpleData>
+		<SimpleData name="col_index">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5180907368682,54.4575576665404 23.5224902951883,54.4620678949281 23.5313949863213,54.4621027483315 23.535898168898,54.4576273618611 23.5314976071469,54.4531176162859 23.5225948658926,54.4530827743665 23.5180907368682,54.4575576665404</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">93</SimpleData>
+		<SimpleData name="left">468752.358037844</SimpleData>
+		<SimpleData name="top">6035245.9915</SimpleData>
+		<SimpleData name="right">469907.058576224</SimpleData>
+		<SimpleData name="bottom">6034245.9915</SimpleData>
+		<SimpleData name="row_index">2</SimpleData>
+		<SimpleData name="col_index">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.518196253484,54.4485725450099 23.5225948658926,54.4530827743665 23.5314976071469,54.4531176162859 23.5359997868287,54.4486422173676 23.5316001715462,54.4441324706635 23.5226993790987,54.4440976402231 23.518196253484,54.4485725450099</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">94</SimpleData>
+		<SimpleData name="left">468752.358037844</SimpleData>
+		<SimpleData name="top">6034245.9915</SimpleData>
+		<SimpleData name="right">469907.058576224</SimpleData>
+		<SimpleData name="bottom">6033245.9915</SimpleData>
+		<SimpleData name="row_index">3</SimpleData>
+		<SimpleData name="col_index">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5183017120872,54.4395874098943 23.5226993790987,54.4440976402231 23.5316001715462,54.4441324706635 23.53610134889,54.4396570592991 23.5317026795615,54.435147311463 23.5228038348494,54.4351124924966 23.5183017120872,54.4395874098943</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">95</SimpleData>
+		<SimpleData name="left">468752.358037844</SimpleData>
+		<SimpleData name="top">6033245.9915</SimpleData>
+		<SimpleData name="right">469907.058576224</SimpleData>
+		<SimpleData name="bottom">6032245.9915</SimpleData>
+		<SimpleData name="row_index">4</SimpleData>
+		<SimpleData name="col_index">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.518407112721,54.4306022611923 23.5228038348494,54.4351124924966 23.5317026795615,54.435147311463 23.5362028551236,54.4306718876542 23.5318051312346,54.4261621386829 23.5229082331875,54.4261273311855 23.518407112721,54.4306022611923</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">96</SimpleData>
+		<SimpleData name="left">468752.358037844</SimpleData>
+		<SimpleData name="top">6032245.9915</SimpleData>
+		<SimpleData name="right">469907.058576224</SimpleData>
+		<SimpleData name="bottom">6031245.9915</SimpleData>
+		<SimpleData name="row_index">5</SimpleData>
+		<SimpleData name="col_index">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5185124554287,54.4216170989026 23.5229082331875,54.4261273311855 23.5318051312346,54.4261621386829 23.536304305571,54.4216867024316 23.5319075266076,54.417176952322 23.5230125741559,54.4171421562884 23.5185124554287,54.4216170989026</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">97</SimpleData>
+		<SimpleData name="left">468752.358037844</SimpleData>
+		<SimpleData name="top">6031245.9915</SimpleData>
+		<SimpleData name="right">469907.058576224</SimpleData>
+		<SimpleData name="bottom">6030245.9915</SimpleData>
+		<SimpleData name="row_index">6</SimpleData>
+		<SimpleData name="col_index">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5186177402533,54.4126319230237 23.5230125741559,54.4171421562884 23.5319075266076,54.417176952322 23.536405700274,54.4127015036298 23.5320098657223,54.4081917523787 23.5231168577972,54.4081569678042 23.5186177402533,54.4126319230237</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">98</SimpleData>
+		<SimpleData name="left">468752.358037844</SimpleData>
+		<SimpleData name="top">6030245.9915</SimpleData>
+		<SimpleData name="right">469907.058576224</SimpleData>
+		<SimpleData name="bottom">6029245.9915</SimpleData>
+		<SimpleData name="row_index">7</SimpleData>
+		<SimpleData name="col_index">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.518722967238,54.4036467335544 23.5231168577972,54.4081569678042 23.5320098657223,54.4081917523787 23.5365070392738,54.4037162912475 23.5321121486208,54.3992065388519 23.5232210841542,54.3991717657313 23.518722967238,54.4036467335544</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">99</SimpleData>
+		<SimpleData name="left">468752.358037844</SimpleData>
+		<SimpleData name="top">6029245.9915</SimpleData>
+		<SimpleData name="right">469907.058576224</SimpleData>
+		<SimpleData name="bottom">6028245.9915</SimpleData>
+		<SimpleData name="row_index">8</SimpleData>
+		<SimpleData name="col_index">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5188281364259,54.3946615304932 23.5232210841542,54.3991717657313 23.5321121486208,54.3992065388519 23.5366083226121,54.3947310652834 23.5322143753447,54.39022131174 23.5233252532694,54.3901865500684 23.5188281364259,54.3946615304932</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">100</SimpleData>
+		<SimpleData name="left">469618.383441629</SimpleData>
+		<SimpleData name="top">6036745.9915</SimpleData>
+		<SimpleData name="right">470773.083980008</SimpleData>
+		<SimpleData name="bottom">6035745.9915</SimpleData>
+		<SimpleData name="row_index">0</SimpleData>
+		<SimpleData name="col_index">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5313949863213,54.4621027483315 23.5357964950563,54.466612492781 23.5447021896415,54.4666463677023 23.5492044246979,54.4621704870098 23.5448019130472,54.4576612256202 23.535898168898,54.4576273618611 23.5313949863213,54.4621027483315</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">101</SimpleData>
+		<SimpleData name="left">469618.383441629</SimpleData>
+		<SimpleData name="top">6035745.9915</SimpleData>
+		<SimpleData name="right">470773.083980008</SimpleData>
+		<SimpleData name="bottom">6034745.9915</SimpleData>
+		<SimpleData name="row_index">1</SimpleData>
+		<SimpleData name="col_index">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5314976071469,54.4531176162859 23.535898168898,54.4576273618611 23.5448019130472,54.4576612256202 23.5493031457242,54.4531853326446 23.5449015816143,54.4486760699693 23.5359997868287,54.4486422173676 23.5314976071469,54.4531176162859</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">102</SimpleData>
+		<SimpleData name="left">469618.383441629</SimpleData>
+		<SimpleData name="top">6034745.9915</SimpleData>
+		<SimpleData name="right">470773.083980008</SimpleData>
+		<SimpleData name="bottom">6033745.9915</SimpleData>
+		<SimpleData name="row_index">2</SimpleData>
+		<SimpleData name="col_index">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5316001715462,54.4441324706635 23.5359997868287,54.4486422173676 23.5449015816143,54.4486760699693 23.5494018124685,54.4442001647124 23.5450011953837,54.4396909007483 23.53610134889,54.4396570592991 23.5316001715462,54.4441324706635</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">103</SimpleData>
+		<SimpleData name="left">469618.383441629</SimpleData>
+		<SimpleData name="top">6033745.9915</SimpleData>
+		<SimpleData name="right">470773.083980008</SimpleData>
+		<SimpleData name="bottom">6032745.9915</SimpleData>
+		<SimpleData name="row_index">3</SimpleData>
+		<SimpleData name="col_index">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5317026795615,54.435147311463 23.53610134889,54.4396570592991 23.5450011953837,54.4396909007483 23.549500424971,54.4352149832118 23.5451007543962,54.4307057179558 23.5362028551236,54.4306718876542 23.5317026795615,54.435147311463</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">104</SimpleData>
+		<SimpleData name="left">469618.383441629</SimpleData>
+		<SimpleData name="top">6032745.9915</SimpleData>
+		<SimpleData name="right">470773.083980008</SimpleData>
+		<SimpleData name="bottom">6031745.9915</SimpleData>
+		<SimpleData name="row_index">4</SimpleData>
+		<SimpleData name="col_index">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5318051312346,54.4261621386829 23.5362028551236,54.4306718876542 23.5451007543962,54.4307057179558 23.5495989832724,54.4262297881414 23.5452002586927,54.4217205215904 23.536304305571,54.4216867024316 23.5318051312346,54.4261621386829</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">105</SimpleData>
+		<SimpleData name="left">469618.383441629</SimpleData>
+		<SimpleData name="top">6031745.9915</SimpleData>
+		<SimpleData name="right">470773.083980008</SimpleData>
+		<SimpleData name="bottom">6030745.9915</SimpleData>
+		<SimpleData name="row_index">5</SimpleData>
+		<SimpleData name="col_index">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5319075266076,54.417176952322 23.536304305571,54.4216867024316 23.5452002586927,54.4217205215904 23.5496974874129,54.4172445794998 23.5452997083139,54.4127353116508 23.536405700274,54.4127015036298 23.5319075266076,54.417176952322</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">106</SimpleData>
+		<SimpleData name="left">469618.383441629</SimpleData>
+		<SimpleData name="top">6030745.9915</SimpleData>
+		<SimpleData name="right">470773.083980008</SimpleData>
+		<SimpleData name="bottom">6029745.9915</SimpleData>
+		<SimpleData name="row_index">6</SimpleData>
+		<SimpleData name="col_index">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5320098657223,54.4081917523787 23.536405700274,54.4127015036298 23.5452997083139,54.4127353116508 23.5497959374329,54.4082593572857 23.5453991033005,54.4037500881355 23.5365070392738,54.4037162912475 23.5320098657223,54.4081917523787</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">107</SimpleData>
+		<SimpleData name="left">469618.383441629</SimpleData>
+		<SimpleData name="top">6029745.9915</SimpleData>
+		<SimpleData name="right">470773.083980008</SimpleData>
+		<SimpleData name="bottom">6028745.9915</SimpleData>
+		<SimpleData name="row_index">7</SimpleData>
+		<SimpleData name="col_index">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5321121486208,54.3992065388519 23.5365070392738,54.4037162912475 23.5453991033005,54.4037500881355 23.5498943333726,54.3992741214976 23.5454984436931,54.3947648510432 23.5366083226121,54.3947310652834 23.5321121486208,54.3992065388519</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#grid">
+		<SimpleData name="id">108</SimpleData>
+		<SimpleData name="left">469618.383441629</SimpleData>
+		<SimpleData name="top">6028745.9915</SimpleData>
+		<SimpleData name="right">470773.083980008</SimpleData>
+		<SimpleData name="bottom">6027745.9915</SimpleData>
+		<SimpleData name="row_index">8</SimpleData>
+		<SimpleData name="col_index">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>23.5322143753447,54.39022131174 23.5366083226121,54.3947310652834 23.5454984436931,54.3947648510432 23.5499926752725,54.3902888721343 23.5455977295325,54.3857796003726 23.5367095503303,54.3857458257361 23.5322143753447,54.39022131174</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

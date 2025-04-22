@@ -2,20 +2,17 @@
 A project that funded by National Geographic for collecting and documenting bird sounds in Lithuania. Here is the documentation for the fieldwork preparation.
 
 
-## Equipment
+## Equipment and schedule
 
-ARU type (10 song mini & 24 AudioMoth)
-equipment sheet
+#### AudioMoth (24 units)
+- Schedule: 24 hours, 1 min on with 3 mins off
+- Battery life: 42 days
+- SD capacity: 47 days
 
-Apps and computer softwares
-- AudioMoth configuration software
-- AudioMoth flash software
-- AudioMoth time chime app
-- SongMeter mini app
-
-
-## Audio recording schedule & audio settings
-
+#### SongMini (10 units)
+- Schedule: 6 hours (2 - 8am), 1 min on with 1 min off
+- Battery life: 50 days
+- SD capacity: 350 days
 
 
 ## Firmware update
@@ -113,7 +110,7 @@ Maps can be found here:
 
 ## Battery/SD card swap
 
-- Date: Between June 9 - 13
+- Date: Between June 11 - 13
 - Required equipment: Fresh microSD cards (12 + 1 backup), AA batteries (3 * 12 + 4 * 5 = 55), AudioMoth Chime app (on phone), Paper bags (for used SD cards), Pen, Extra ziplock bags, Zip ties
 
 #### AudioMoth

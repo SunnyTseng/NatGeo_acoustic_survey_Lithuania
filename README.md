@@ -55,8 +55,8 @@ Site locations were selected to represent the full bird community by considering
 
 Maps can be found here:
 
-- [Zuvintas Lake Biosphere](https://www.google.com/maps/d/u/0/edit?mid=1pH6OkkHuZ27Fp8bWOTNObME3h0irAlg&usp=sharing)
-- [Curonian Spit National Park](https://www.google.com/maps/d/u/0/edit?mid=1Rzk47qVNdNqXr9cCmbVpNEYCmcsJY5Q&usp=sharing)
+- [Zuvintas Lake Biosphere](https://www.google.com/maps/d/edit?mid=1pH6OkkHuZ27Fp8bWOTNObME3h0irAlg&usp=sharing)
+- [Curonian Spit National Park](https://www.google.com/maps/d/edit?mid=1Rzk47qVNdNqXr9cCmbVpNEYCmcsJY5Q&usp=sharing)
 
 ## Deployment
 
@@ -111,8 +111,29 @@ Maps can be found here:
 
 
 
-## Check: battery/SD card swap
+## Battery/SD card swap
+
+- Date: Between June 9 - 13
+- Required equipment: Fresh microSD cards (12 + 1 backup), AA batteries (3 * 12 + 4 * 5 = 55), AudioMoth Chime app (on phone), Paper bags (for used SD cards), Pen, Extra ziplock bags, Zip ties
+
+#### AudioMoth
+
+1. Remove unit from its bag, check LED light status, and switch the white toggle to “USB/OFF”.
+2. Remove and replace batteries.
+3. Remove the old microSD card and insert a new one. Place the old microSD card in a paper bag. Label the bag with:
+    - Date and time
+    - Site name
+    - LED light status 
+    - Old and new microSD card numbers
+4. Switch the white toggle to “CUSTOM”. The LED should blink green with stable red.
+5. Play the Chime using the AudioMoth app to synchronize time. The red LED should turn off after successful calibration.
+6. Secure the unit back into the bag and onto the tree or mounting location. Check completed. 
 
 
-## ARU retrieval 
+#### SongMini
+
+1. Open the lid and switch the white toggle to “OFF”.
+2. Replace batteries quickly (within 5 minutes to avoid clock reset).
+3. Switch the white toggle to “ON”. The Load and Defaults LEDs should both light up green.
+4. Close the lid and secure the unit. Check completed
 

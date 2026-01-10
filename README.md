@@ -1,5 +1,13 @@
-# Acoustic Survey in Lithuania - NatGeo Early Career Project
-A project that funded by National Geographic for collecting and documenting bird sounds in Lithuania. Here is the documentation for the fieldwork preparation.
+# Acoustic Survey in Lithuania - The Land of Storks
+A project that was initially funded by National Geographic for collecting and documenting bird sounds in Lithuania. Here is the documentation for the general project overview and fieldwork preparation.
+
+## Funding support
+
+2024 - National Geographic (EC-KOR-53792R-18) - 5,200 USD - grant
+
+2025 - Pairi Daiza Foundation Grant for Biodiversity and Conservation Research (NA) - NA - not successful
+
+2025 - Wildlife Acoustics Grant Program - 3,874 USD - research equipment
 
 
 ## Equipment and schedule

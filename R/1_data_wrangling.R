@@ -8,27 +8,34 @@ library(birdnetTools)
 
 # load data ---------------------------------------------------------------
 
-curonian_output_combined_mini <- birdnet_combine("D:/2025_curonian_national_park_output/5550_0512_0725_mini")
+cormorant_AudioMoth_NG4_1 <- birdnet_combine("H:/2025_curonian_national_park_output/NG4_0512_0610_sd25")
+
+cormorant_AudioMoth_NG4_2 <- birdnet_combine("H:/2025_curonian_national_park_output/NG4_0613_0707_sd15")
+
+save(cormorant_AudioMoth_NG4_1,
+     file = here("data", 
+                 "BirdNET_output_combined", 
+                 "2025_cormorant_AudioMoth_NG4_1.rda"))
+
+save(cormorant_AudioMoth_NG4_2,
+     file = here("data", 
+                 "BirdNET_output_combined", 
+                 "2025_cormorant_AudioMoth_NG4_2.rda"))
 
 
-
-zuvintas_output_combined <- birdnet_combine("D:/2025_zuvintas_output")
-vilnius_output_combined <- birdnet_combine("D:/2025_vilnius_output")
-ventes_ragas_output_combined <- birdnet_combine("D:/2025_ventes_ragas_output")
-
-save(curonian_output_combined,
-     file = here("data", "BirdNET_output_combined"))
-
-save(curonian_output_combined_mini,
-     file = here("data", "BirdNET_output_combined", "2025_cormorant_SongMini.rda"))
 
 # for cormorant -----------------------------------------------------------
 
-cormorant_audiomoth <- curonian_output_combined %>%
+load(here("data", "BirdNET_output_combined", "2025_cormorant_AudioMoth_NG4_1.rda"))
+load(here("data", "BirdNET_output_combined", "2025_cormorant_AudioMoth_NG4_2.rda"))
+
+cormorant_audiomoth <- cormorant_AudioMoth_NG4_1 %>%
+  bind_rows(cormorant_AudioMoth_NG4_2) %>%
   birdnet_filter(species = "Great Cormorant") %>%
   birdnet_heatmap()
 
-cormorant_mini <- curonian_output_combined_mini %>%
-  birdnet_filter(species = "Great Cormorant") %>%
-  birdnet_heatmap()
+ggsave(cormorant_audiomoth,
+       filename = here("docs", "figures", "cormorant_audiomoth_heatmap.png"),
+       width = 10,
+       height = 6)
 

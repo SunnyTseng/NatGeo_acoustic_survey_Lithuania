@@ -61,10 +61,10 @@ data_all <- audioMoth_NG4_1 %>%
   bind_rows(audioMoth_NG4_2) %>%
   bind_rows(audioMoth_NG6_1) %>%
   bind_rows(audioMoth_NG6_2) %>%
-  bind_rows(audioMoth_ST11_1) %>%
-  bind_rows(audioMoth_ST11_2) %>%
-  bind_rows(audioMoth_NG7_1) %>%
-  bind_rows(audioMoth_NG7_2) %>%
+  # bind_rows(audioMoth_ST11_1) %>%
+  # bind_rows(audioMoth_ST11_2) %>%
+  # bind_rows(audioMoth_NG7_1) %>%
+  # bind_rows(audioMoth_NG7_2) %>%
   birdnet_add_datetime() %>%
   mutate(site = case_when(
     grepl("NG4", `Begin Path`) ~ "NG4",
@@ -144,7 +144,8 @@ high_cormorant_daily <- data_all %>%
              group = `Common Name`, 
              colour = `Common Name`)) +
   #geom_point() +
-  geom_smooth(aes(group = `Common Name`), method = "gam", formula = y ~ s(x, bs = "cc"),
+  geom_smooth(aes(group = `Common Name`), 
+              method = "gam", formula = y ~ s(x, bs = "cc"),
               linewidth = 1.5, alpha = 0.4) +
   scale_colour_manual(values = c("Great Cormorant" = "#EE9A49",
                                  "Gray Heron"      = "#53868B")) +
@@ -194,7 +195,8 @@ low_cormorant_daily <- data_all %>%
              group = `Common Name`, 
              colour = `Common Name`)) +
   #geom_point() +
-  geom_smooth(aes(group = `Common Name`), method = "gam", formula = y ~ s(x, bs = "cc"),
+  geom_smooth(aes(group = `Common Name`), 
+              method = "gam", formula = y ~ s(x, bs = "cc"),
               linewidth = 1.5, alpha = 0.4) +
   scale_colour_manual(values = c("Great Cormorant" = "#EE9A49",
                                  "Gray Heron"      = "#53868B")) +

@@ -11,12 +11,12 @@ A project that was initially funded by National Geographic for collecting and do
 
 ## Deployment area
 
-## Equipment inventory 
+## Equipment inventory
 
 ## Funding support
 
 | Name | Field season supported | Amount | Grant ID | Note |
-|---------------|---------------|---------------|---------------|---------------|
+|----|----|----|----|----|
 | National Geographic Early Career Grant | 2025 | 5,200 USD | EC-KOR-53792R-18 | grant |
 | Pairi Daiza Foundation Grant for Biodiversity and Conservation Research | 2026 | NA | NA | not awarded |
 | Wildlife Acoustics Grant Program | 2026 | 4,000 USD | 2025 Q4 | equipment support |
